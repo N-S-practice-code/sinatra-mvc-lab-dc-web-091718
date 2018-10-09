@@ -13,4 +13,6 @@ class App < Sinatra::Base
 end
 
 
-def PigLatinizer
+def piglatinizer(text)
+  
+end
