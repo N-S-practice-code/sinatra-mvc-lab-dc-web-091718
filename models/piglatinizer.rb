@@ -1,4 +1,4 @@
 class PigLatinizer
-  def inti
+  def intitialize
   
 end
