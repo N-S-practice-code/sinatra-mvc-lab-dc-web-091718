@@ -13,4 +13,4 @@ class App < Sinatra::Base
 end
 
 
-def 
+def PigLatinizer
